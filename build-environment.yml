@@ -7,4 +7,5 @@ dependencies:
   - jupyterlite-xeus-python=0.9.4
   - pip:
     - voici==0.4.6
+    - ipyleaflet
     
