@@ -8,4 +8,5 @@ dependencies:
   - pip:
     - voici==0.4.6
     - ipyleaflet
+    - altair
     
